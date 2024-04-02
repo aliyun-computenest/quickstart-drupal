@@ -52,7 +52,7 @@ Drupal社区版上的费用主要涉及：
 
 ## 部署流程
 
-1.访问Drupal社区版服务[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-4e48bfc9312c4b92ab69&ServiceVersion=1)
+1.访问Drupal社区版服务[部署链接](https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-4e48bfc9312c4b92ab69&ServiceVersion=2)
 ，按提示填写部署参数：
 
 ![image.png](2.png)
